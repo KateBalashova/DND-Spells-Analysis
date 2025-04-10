@@ -18,7 +18,7 @@ Our goal was to answer two key questions:
 ## 🧩 Folder Structure
 
 Heres our folder structure:
-DND-Spells-Analysis/
+
 - `project/` — Main working folder:
   - `spell.csv` — Raw dataset
   - `question1.ipynb` — Classes's Spell Text Analysis
