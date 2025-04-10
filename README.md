@@ -19,17 +19,16 @@ Our goal was to answer two key questions:
 
 Heres our folder structure:
 DND-Spells-Analysis/
-│
-├── project/               # Main working folder
-│   ├── spell.csv          # Raw dataset
-│   ├── question1.ipynb           # EDA + Text Analysis
-│   └── question2.ipynb           # Spell Range & Components Analysis
-│
-├── reports/               # Deliverables and documentation
-│   ├── proposal.md              # Initial project proposal
-│   ├── Write-up.pdf             # Final report with visualizations
-│   └── DND Spells Analysis.pdf  # Presentation slides
-│
-├── README.md              # You're here!
+- `project/` — Main working folder:
+  - `spell.csv` — Raw dataset
+  - `question1.ipynb` — Classes's Spell Text Analysis
+  - `question2.ipynb` — Spell Range & Components Analysis
+
+- `reports/` — Deliverables and documentation:
+  - `proposal.md` — Initial project proposal
+  - `Write-up.pdf` — Final report with visualizations
+  - `DND Spells Analysis.pdf` — Presentation slides
+
+- `README.md` — You're here!
 
 This project was created as part of a data visualization and analysis assignment by Group 14.
